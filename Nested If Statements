@@ -1,0 +1,12 @@
+public class Derg{
+  public static void main(String[] args)
+{
+  int height = 67;
+    if (height <= 0)
+  {System.out.println ("Unborn");}
+  else if (height <= 55)
+  {System.out.println("Short");}
+  else
+  {System.out.println("tall");}
+}
+}
